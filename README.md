@@ -1,4 +1,4 @@
-# Auto-Portfolio-Optimization
+# Auto-Stock-Portfolio-Optimization
 # 📊 Portfolio Optimization using Python
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
